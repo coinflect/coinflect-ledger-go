@@ -1,3 +1,3 @@
 # coinflect-ledger-go
 
-Coming up
+Coming soon
